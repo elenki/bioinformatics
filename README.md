@@ -3,9 +3,9 @@ Learning bioinformatics
 
 Subject/Topic list:
 1. Math
-    * Rules of counting
+    * Counting Rules
     * Set Theory
-    * Probability 
+    * Probability
     * Statistics
 
 2. Biology
