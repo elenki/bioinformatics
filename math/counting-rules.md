@@ -10,7 +10,7 @@
     * This is called the **Case Rule** or **Sum Rule** of counting.
 
 
-## Below are the counting operations, for given `n` objects:
+## Below are the counting operations, for given $n$ objects:
 
 ### `SORT` $n$ objects
 * For this operation, `ORDER` matters!
@@ -19,7 +19,7 @@
     * $\pi(n) = n! = n(n-1)(n-2)...(2)(1)$
 
 * The number of permutations of $n$ objects, where $n1$ are identical, $n2$ are identical, etc. is $n!/(n1!n2!...)$.
-    * $\pi(n) = \frac{n!}{n_1!n_2!...n_k!}$
+    * $\pi(n) = \dfrac{n!}{n_1!n_2!...n_k!}$
 
 ### `CHOOSE` $k$ objects from $n$ objects
 * For this operation, `ORDER` does _not_ matter!
